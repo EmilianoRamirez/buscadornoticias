@@ -1,0 +1,10 @@
+.container-noticias{
+    border: 1px solid black;
+    position: static;
+}
+
+.logo{
+    text-align: start;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
